@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Батор Батуев](https://up.htmlacademy.ru/htmlcss-individual/3/user/2558253).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
