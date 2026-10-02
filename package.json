@@ -1,0 +1,28 @@
+{
+  "name": "2558253-sedona-3",
+  "version": "1.0.0",
+  "description": "* Студент: [Батор Батуев](https://up.htmlacademy.ru/htmlcss-individual/3/user/2558253). * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:css": "stylelint \"styles/**/*.css\"",
+    "lint:css:fix": "stylelint \"styles/**/*.css\" --fix",
+    "start": "browser-sync start --server --files \"*.html, styles/**/*.css, *.js\" --no-notify --no-ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bator-batuev/2558253-sedona-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bator-batuev/2558253-sedona-3/issues"
+  },
+  "homepage": "https://github.com/bator-batuev/2558253-sedona-3#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "stylelint": "^15.11.0"
+  }
+}
